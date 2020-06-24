@@ -2,7 +2,7 @@ Build@Mercari 2020 Week4 - Travelling Salesman PRoblem Challenges.
 
 This is forked from [https://github.com/hayatoito/google-step-tsp-2016](https://github.com/hayatoito/google-step-tsp-2016).
 # two-opt
-2-optによる近傍探索を行い実装しました。challenge5においては、近傍探索を100や50回繰り返したところKeyboardInterruptになってしまったため1回とした。
+2-optによる近傍探索を行い実装しました。challenge5においては、近傍探索を100や50回繰り返したところKeyboardInterruptになってしまったため、1回としています。
 
 
 1. 問題
