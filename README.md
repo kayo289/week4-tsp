@@ -1,6 +1,9 @@
 Build@Mercari 2020 Week4 - Travelling Salesman PRoblem Challenges.
 
 This is forked from [https://github.com/hayatoito/google-step-tsp-2016](https://github.com/hayatoito/google-step-tsp-2016).
+# two-opt
+2-optによる近傍探索を行い実装しました。challenge5においては、近傍探索を100回繰り返したところKeyboardInterruptになってしまったため1回とした。
+
 
 1. 問題
 [巡回セールスマン問題](https://ja.wikipedia.org/wiki/%E5%B7%A1%E5%9B%9E%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3%E5%95%8F%E9%A1%8C) を解くアルゴリズムを考えてください。
